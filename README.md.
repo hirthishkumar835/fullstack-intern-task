@@ -1,0 +1,28 @@
+# TemplateHub — Mini SaaS Template Store
+
+## Author
+Name: Your Full Name Here
+Email: your.email@example.com
+
+## Tech Stack
+- Frontend: React.js + Vite + TailwindCSS
+- Backend: Node.js + Express.js
+- Database: MongoDB + Mongoose
+- Auth: JWT + bcryptjs
+
+## Setup Instructions
+
+### Backend
+cd server
+npm install
+node seed.js
+npm run dev
+
+### Frontend
+cd client
+npm install
+npm run dev
+
+## Live Links
+- Frontend: your-vercel-link-here
+- Backend: your-render-link-here
